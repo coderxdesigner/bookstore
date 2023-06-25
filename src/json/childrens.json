@@ -1,0 +1,154 @@
+{
+	"books":[
+		{
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/fall-out-of-time.jpg",
+			"title": "Fall Out of Time",
+			"author":"Margaret Peterson Haddix",
+			"average-rating":"4",
+			"rating": "286",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":1
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/src/images/figure-it-out-henri-weldone.jpg",
+			"title": "Figure it out Henri Weldone",
+			"author":"Tanita Davis",
+			"average-rating":"4",
+			"rating": "286",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":2
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/firefly_summer.jpg",
+			"title": "Firefly Summer",
+			"author":"Morgan Matson",
+			"average-rating":"4",
+			"rating": "286",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":3
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/grounded.jpg",
+			"title": "Grounded",
+			"author":"Aisha Saeed",
+			"average-rating":"4",
+			"rating": "137",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":4
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/joy-to-the-world.jpg",
+			"title": "Joy to the World",
+			"author":"Kai Shappley",
+			"average-rating":"4",
+			"rating": "60",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":5
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/marina-middle.jpg",
+			"title": "Marina Middle",
+			"author":"Nicole Melbbey",
+			"average-rating":"4",
+			"rating": "63",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":6
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/monsterous.jpg",
+			"title": "Monsterous",
+			"author":"Matt McCann",
+			"average-rating":"4",
+			"rating": "53",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":7
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/sunrise-lagoon.jpg",
+			"title": "Sunrise Lagoon",
+			"author":"Nicole Melbbey",
+			"average-rating":"4",
+			"rating": "86",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":8
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-beautiful.jpg",
+			"title": "The Beautiful",
+			"author":"Ash Van Otterloo",
+			"average-rating":"4",
+			"rating": "280",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":9
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-kingdom-over-the-sea.jpg",
+			"title": "The Kingdom Over the Sea",
+			"author":"Zohra Nabi",
+			"average-rating":"4",
+			"rating": "95",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":10
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-labors-of-hercules-beal.jpg",
+			"title": "The Labors of Hercules Beal",
+			"author":"Gary D. Schmidt",
+			"average-rating":"4",
+			"rating": "359",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":11
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-song-of-us.jpg",
+			"title": "The Song of Us",
+			"author":"Kate Fusner",
+			"average-rating":"4",
+			"rating": "89",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":12
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-takeout.jpg",
+			"title": "The Takeout",
+			"author":"Tracy Badua",
+			"average-rating":"4",
+			"rating": "61",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":13
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/the-witch-of-woodland.jpg",
+			"title": "The Witch Woodland",
+			"author":"Laurel Snyder",
+			"average-rating":"4",
+			"rating": "91",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":14
+		},
+        {
+			"image":"https://raw.githubusercontent.com/coderxdesigner/bookstore/main/src/images/we-are-one.jpg",
+			"title": "We are One",
+			"author":"Jackie Azua Kramer",
+			"average-rating":"3",
+			"rating": "25",
+            "published":"2023",
+            "intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis blandit urna. Aenean bibendum, nunc vel blandit lacinia, dolor arcu pellentesque ipsum, vel pretium libero urna eget ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque consequat turpis eget efficitur lobortis. Mauris quis mollis magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc enim, euismod sit amet augue quis, accumsan efficitur eros.",
+            "id":15
+		}
+    ]
+}
